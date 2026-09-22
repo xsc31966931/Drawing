@@ -6,9 +6,15 @@
 
 ## 在线体验
 
-开启 GitHub Pages 后直接访问：`https://<你的用户名>.github.io/drawings-to-3d-home/`
+开启 GitHub Pages 后直接访问：<https://xsc31966931.github.io/Drawing/>
 
 也可以双击 `index.html` 本地打开（Three.js 走 CDN，需联网）。
+
+| 原木风 · 俯视全景 | 原木风 · 一层客餐厅 |
+|---|---|
+| ![原木风俯视全景](screenshots/01_原木风_俯视全景.png) | ![原木风一层客餐厅](screenshots/02_原木风_一层客餐厅.png) |
+
+![奶油风外立面](screenshots/03_奶油风_外立面.png)
 
 ## 功能
 
