@@ -1,0 +1,12 @@
+# 豆包工作过程目录（中间产物，不入库）
+_work/
+.preview/
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
